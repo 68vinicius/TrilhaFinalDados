@@ -1,4 +1,4 @@
-![Código Certo Coders](https://utfs.io/f/3b2340e8-5523-4aca-a549-0688fd07450e-j4edu.jfif)
+![Código Certo Coders](https://i.imgur.com/MAyFXGV.jpg)
 
 # 📚 Trilha Final Ciência de Dados Jr
 Parabéns pela conclusão da [Trilha Inicial](https://github.com/codigocerto/TrilhaDadosJR-JUN15)! Seu esforço e dedicação são admiráveis. O mundo está cheio de oportunidades esperando por você.
@@ -20,6 +20,7 @@ Na **Codigo Certo Coders** vamos aplicar ciência de dados em diversos projetos 
 ---
 
 ## Analista de Dados e Business Intelligence
+- Com base nos dados de feedback coletados, identifique padrões de satisfação geral e colaboração entre membros. Como você utilizaria esses insights para melhorar a experiência dos membros?
 - Pense em alguns KPIs para monitoramento. Talvez outros para direcionamento dos gestores!
 - Um cruzamento dos dados poderia gerar relatórios interessantes. Afinal, quem são as equipes Top 5 em nível de satisfação? Qual é o impacto deles para a comunidade?
 - Que tal realizar uma análise exploratória dos dados. E então? Algo lhe chama a atenção?
@@ -57,12 +58,13 @@ Na **Codigo Certo Coders** vamos aplicar ciência de dados em diversos projetos 
 ## Cientista de Dados
 - Que tal uma análise textual dos membros que deixaram comentários sobre sua satisfação?
 - Alguns membros não escreveram um comentário. Mas por que eles estão satisfeitos?
-- Crie um modelo preditivo para estimar a satisfação futura com base em dados históricos e variáveis contextuais.
+- Desenvolva um modelo preditivo para identificar membros que têm maior probabilidade de não continuar no projeto. Quais variáveis você incluiria no modelo e por quê?
 - Divirta-se descobrindo as equipes ou pessoas mais propensas à insatisfação.
 - Crie recursos deste rico conjunto de dados, feature engineering ou anexe algumas informações públicas externas a ele.
 - Desenvolver novas variáveis (features) que possam melhorar a performance dos modelos preditivos.
 - Qual foi a taxa de crescimento percentual no número de participantes do primeiro para o segundo mês?
 - Como podemos aproveitar o aumento de participação para melhorar a retenção a longo prazo dos membros da comunidade?
+- Utilizando técnicas de clustering, segmente os membros com base nos dados de satisfação e colaboração. Como essas segmentações podem ajudar a comunidade a personalizar suas abordagens de suporte e engajamento?
 - O que acha de escrever um relatório ou slides detalhando as suas descobertas?
 
 ### Cientista de Dados I - Nível Júnior
@@ -96,10 +98,12 @@ Na **Codigo Certo Coders** vamos aplicar ciência de dados em diversos projetos 
 
 ## Engenheiro(a) de Dados
 - Gostaríamos de analisar suas habilidades com SQL, modelagem dimensional e integração de dados. Mostre seus conhecimento em processos de ETL e conceitos de Data Warehouse. Que tal replicar os datasets dos meses mencionados, remodelá-los em um banco de dados e apresentar a estrutura criada?
-- É possível utilizar o modelo proposto em um ambiente cloud? Quais plataformas ou serviços você utilizaria? Quais as vantagens do modelo escolhido em questões de performance?
+- Nossa infraestrutura de dados está impactando a performance da análise de feedbacks. Como você redesenharia a arquitetura para melhorar a eficiência?
+- Nosso processo de ETL está gerando dados duplicados e inconsistentes. Como você resolveria esses problemas para garantir a integridade dos dados?
 - Nossa ferramenta de visualização de dashboards está lenta e o nosso time detectou que o problema está na infraestrutura de dados. Como você abordaria esta situação do ponto vista de arquitetura de dados?
-- Nosso banco de dados está hospedado na nuvem e nossas ferramentas de análise de dados são "on premisses". Você manteria este arranjo ou faria mudanças visando mais performance?
+- Descreva como você projetaria um pipeline de ETL para integrar os feedbacks coletados em diferentes formatos (planilhas, formulários online, etc.) em um único data warehouse
 - Nossa área operacional necessita de informações em tempo real, porém os gestores da comunidade acompanham somente informações de KPIs mensais, alegam que isso é desnecessário e acarretaria custos. Qual é o seu posicionamento sobre isso?
+- Como você implementaria práticas de governança de dados para assegurar que os feedbacks sejam armazenados e utilizados de maneira segura e conforme as políticas da comunidade?
 - Nosso time que está focado em Governança de Dados alega que documentar os processos é mais importante do que refatorar os mais de 500 scripts que estão funcionando com lentidão. Como você atuaria neste impasse, se tivesse que priorizar o trabalho?
 - Na **Codigo Certo Coders**, somos muito mão na massa! Como Engenheiro(a) de dados, mostre pra gente o que você consegue fazer na prática 
 - O que acha de escrever um relatório ou slides sobre a sua abordagem na solução de alguns desses problemas?
@@ -165,7 +169,7 @@ Na **Codigo Certo Coders** vamos aplicar ciência de dados em diversos projetos 
 ### Prazo ⏳
 Concluir esta etapa com sucesso é crucial para aqueles interessados em se juntar à equipe de ciência de dados de nossa comunidade. Ao demonstrar sua habilidade em conduzir análises aplicáveis, você não apenas se posiciona como um profissional qualificado, mas também como um membro essencial para impulsionar o desenvolvimento técnico e estratégico de nossa comunidade.
 
-É necessário responder apenas 60% das perguntas. Concentre-se nos aspectos em que você possui maior afinidade, mostrando claramente como você aborda e resolve problemas.
+É necessário responder 60% das perguntas e desafios. Concentre-se nos aspectos em que você possui maior afinidade, mostrando claramente como você aborda e resolve problemas.
 
 Prepare-se para enfrentar desafios reais, aplicar suas habilidades de forma prática e contribuir significativamente para o crescimento contínuo de nossa comunidade. Seja parte da transformação através da ciência de dados!
 
@@ -175,7 +179,7 @@ Prepare-se para enfrentar desafios reais, aplicar suas habilidades de forma prá
 2. Crie um branch com seu nome e sobrenome a partir do branch principal.
 3. Organize os scripts e código em pastas separadas, mantendo a estrutura original dos arquivos fornecidos.
 4. Certifique-se de documentar sua solução para facilitar a compreensão do avaliador.
-5. Ao finalizar, submeta seu projeto preenchendo o [Formulário](https://forms.gle/gZViPMTSDV5nidSu6):
+5. Ao finalizar, submeta seu projeto preenchendo o [Formulário](https://forms.gle/ejVMYFrXKqWHkrKW6):
 
 Se houver alguma observação adicional, por favor, inclua no campo adicional.
 
@@ -187,9 +191,9 @@ Para elevar seu projeto, busca maneiras inovadoras de não apenas analisar dados
 ---
 
 🔗 **Mantenha-se Conectado:**
-- [Discord](https://discord.gg/wzA9FGZHNv)
+- [Discord](https://discord.com/invite/y3GHwPvsMK)
 - [Website](http://www.codigocertocoders.com.br/)
-- [LinkedIn](https://www.linkedin.com/company/codigocerto/)
+- [LinkedIn](https://www.linkedin.com/company/codigocertocoders/)
   
 🌐 **Contato:**
 - Email: codigocertocoders@gmail.com

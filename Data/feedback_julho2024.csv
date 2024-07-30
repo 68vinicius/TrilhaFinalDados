@@ -8,8 +8,8 @@ data,nome_completo,atualmente_sou,minha_equipe,reunioes_do_time,colaboracao_entr
 2024-07-30,Leonardo Silva de Lima, membro, equipe_de_desenvolvimento_10, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, 4, 
 2024-07-01,Mariana Costa de Souza, membro, equipe_de_desenvolvimento_10, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, 7, Meu líder me da suporte não só dentro da comunidade mas fora também me auxiliando nas entrevistas que tenho feito
 2024-07-02,Natália Almeida da Silva, líder_de_equipe, equipe_de_desenvolvimento_02, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, 17, O projeto é excelente e o ambiente é muito bom.
-2024-07-03,Otávio Fernandes dos Santos, membro, equipe_de_desenvolvimento_03, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, 3, 
-2024-07-04,Paula Silva de Almeida, membro, equipe_de_desenvolvimento_04, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, 5, 
+2024-07-03,Otávio Fernandes dos Santos, membro, equipe_de_desenvolvimento_03, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, 5, 
+2024-07-04,Paula Silva de Almeida, membro, equipe_de_desenvolvimento_04, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, 1, 
 2024-07-05,Quiteria Pereira de Souza, membro, equipe_de_desenvolvimento_03, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, 11, A comunicação é boa mas a colaboração poderia ser melhorada.
 2024-07-06,Rafael Costa dos Santos, membro, equipe_de_desenvolvimento_06, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, 8, O ambiente é positivo e a colaboração é boa.
 2024-07-07,Sabrina Almeida da Silva, membro, equipe_de_desenvolvimento_07, satisfeito, satisfeito, satisfeito, neutro, satisfeito, satisfeito, 21, A experiência é boa mas a comunicação entre os membros poderia ser melhor pois algumas pessoas nao se comprometem tanto.
@@ -32,7 +32,7 @@ data,nome_completo,atualmente_sou,minha_equipe,reunioes_do_time,colaboracao_entr
 2024-07-11,Sabrina Silva dos Santos, membro, equipe_de_desenvolvimento_01, satisfeito, satisfeito, satisfeito, neutro, satisfeito, satisfeito, 9, Boa experiência geral com o projeto.
 2024-07-12,Thiago Lima de Almeida, membro, equipe_de_desenvolvimento_02, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, 6, 
 2024-07-13,Ursula Costa de Souza, membro, equipe_de_desenvolvimento_03, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, 18, Ambiente interativo grupo disposto a te ajudar sempre que necessário seja por mensagens ou ligações de vídeo.
-2024-07-14,Vitor Almeida da Silva, líder_de_equipe, equipe_de_desenvolvimento_04, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, 5, 
+2024-07-14,Vitor Almeida da Silva, líder_de_equipe, equipe_de_desenvolvimento_04, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, 2, 
 2024-07-15,Wendy Pereira de Oliveira, membro, equipe_de_desenvolvimento_05, satisfeito, satisfeito, satisfeito, neutro, satisfeito, satisfeito, 11, Até o momento os projetos que participei me desafiaram a melhorar minhas entregas pois eu estava bem iniciante. Aprendi sobre UI/UX e fazer algo mais profissional
 2024-07-16,Xavier Costa dos Santos, membro, equipe_de_desenvolvimento_06, satisfeito, satisfeito, satisfeito, neutro, satisfeito, satisfeito, 16, alguns membros nao se comprometem tanto em reunioes 
 2024-07-17,Yasmin Silva de Almeida, membro, equipe_de_desenvolvimento_07, neutro, satisfeito, satisfeito, neutro, satisfeito, satisfeito, 18, Depois de um certo tempo estudando frontend eu precisava trabalhar em algum projeto que simulasse a experiência de trabalhar em equipe. Foi quando encontrei a código certo para trabalhos voluntários e vi a oportunidade de ter essa experiência na qual tem sido muito boa
@@ -59,7 +59,11 @@ data,nome_completo,atualmente_sou,minha_equipe,reunioes_do_time,colaboracao_entr
 2024-07-23,Mariana Pereira dos Santos, líder_de_equipe, equipe_de_desenvolvimento_03, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, 7, excelente oportunidade de experiência 
 2024-07-24,Natália Silva de Almeida, membro, equipe_de_desenvolvimento_04, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, 7, 
 2024-07-25,Otávio Costa dos Santos, membro, equipe_de_desenvolvimento_05, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, 13, A comunicação é boa e o ambiente é positivo.
-2024-07-26,Paula Pereira de Lima, membro, equipe_de_desenvolvimento_06, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, 3, 
+2024-07-06,Leonardo Martins, membro, equipe_de_desenvolvimento_06, satisfeito, neutro, satisfeito, satisfeito, satisfeito, satisfeito, 6, Estou achando o projeto desafiador mas muito gratificante
+2024-07-07,Maria Clara, membro, equipe_de_desenvolvimento_07, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, 5, A equipe é acolhedora e isso facilita o aprendizado
+2024-07-08,Renan Costa, membro, equipe_de_desenvolvimento_08, satisfeito, satisfeito, satisfeito, neutro, satisfeito, satisfeito, 8, O ambiente de trabalho é muito positivo e estou gostando das atividades
+2024-07-09,Sofia Almeida, membro, equipe_de_desenvolvimento_09, satisfeito, satisfeito, satisfeito, neutro, satisfeito, satisfeito, 7, Estou me sentindo bem apoiada pelos colegas de equipe
+2024-07-10,Tatiane Rocha, membro, equipe_de_desenvolvimento_10, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, 4, O projeto é interessante e estou animada para contribuir
 2024-07-27,Quiteria Silva dos Santos, membro, equipe_de_desenvolvimento_07, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, 8, 
 2024-07-22,Hugo Costa dos Santos, membro, equipe_de_desenvolvimento_02, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, 9, O projeto é interessante e a equipe é colaborativa.
 2024-07-23,Isabela Pereira de Lima, membro, equipe_de_desenvolvimento_03, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, 3, 
@@ -86,7 +90,7 @@ data,nome_completo,atualmente_sou,minha_equipe,reunioes_do_time,colaboracao_entr
 2024-07-20,César Teixeira, membro, equipe_de_desenvolvimento_10, satisfeito, satisfeito, neutro, satisfeito, satisfeito, satisfeito, 11, Estou aproveitando ao máximo as oportunidades de aprendizado.
 2024-07-21,Patrícia Martins, membro, equipe_de_desenvolvimento_01, satisfeito, satisfeito, satisfeito, neutro, satisfeito, satisfeito, 9, Sinto que minha contribuição está sendo valorizada.
 2024-07-01,Ursula Costa de Oliveira, membro, equipe_de_desenvolvimento_08, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, 13, Uma dica que vejo como algo essencial é separar equipes por linguagens exemplo front com react e back com java apurar os devs que tem desejo de se aprimorar nessa linguagem e adiciona-los ao projeto.
-2024-07-02,Vitor Pereira dos Santos, líder_de_equipe, equipe_de_desenvolvimento_08, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, 3, 
+2024-07-02,Vitor Pereira dos Santos, membro, equipe_de_desenvolvimento_08, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, 3, 
 2024-07-03,Wendy Silva de Almeida, membro, equipe_de_desenvolvimento_03, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, 12, Já que ainda estamos no início do projeto prefiro não comentar por enquanto :)
 2024-07-04,Xavier Costa dos Santos, membro, equipe_de_desenvolvimento_04, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, 19, Atualmente tenho uma visão mais madura de como cmseguir os processos de desenvolvimento de um projeto e abriu minha visão e mente tambem para explorar demais areas alem da desenvolvimento
 2024-07-05,Yasmin Silva de Oliveira, membro, equipe_de_desenvolvimento_05, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, 18, Precisamos focar mais nas metas de curto prazo para garantir que estamos progredindo de forma consistente
@@ -94,8 +98,16 @@ data,nome_completo,atualmente_sou,minha_equipe,reunioes_do_time,colaboracao_entr
 2024-07-07,Alice Costa de Almeida, membro, equipe_de_desenvolvimento_05, satisfeito, satisfeito, satisfeito, neutro, satisfeito, satisfeito, 18, Parabéns pela iniciativa e agradeço pela alocação na equipe.
 2024-07-08,Bruno Silva de Oliveira, membro, equipe_de_desenvolvimento_08, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, 9, O ambiente é ótimo e o projeto é interessante.
 2024-07-09,Carla Pereira dos Santos, membro, equipe_de_desenvolvimento_04, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, 28, Estou amando a ajuda do pessoal equipe muito unida e com isso fica menos exaustivo aprender já que essa área é bastante cansativa. Obrigado codigo certo.
-2024-07-10,Daniel Costa de Almeida, líder_de_equipe, equipe_de_desenvolvimento_09, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, 4, 
+2024-07-01,Bruna Lima, membro, equipe_de_desenvolvimento_09, satisfeito, satisfeito, satisfeito, neutro, satisfeito, satisfeito, 5, Estou gostando da dinâmica da equipe e aprendendo bastante
+2024-07-02,Eduardo Silva, membro, equipe_de_desenvolvimento_02, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, 6, 
+2024-07-03,Fernanda Sousa, membro, equipe_de_desenvolvimento_03, satisfeito, satisfeito, satisfeito, neutro, satisfeito, satisfeito, 4, A equipe é muito unida e isso faz a diferença
+2024-07-04,Gustavo Pereira, membro, equipe_de_desenvolvimento_04, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, 8, Estou aprendendo novas habilidades e interagindo com pessoas incríveis
+2024-07-05,Juliana Gomes, membro, equipe_de_desenvolvimento_05, satisfeito, satisfeito, satisfeito, neutro, satisfeito, satisfeito, 7, A troca de ideias tem sido muito enriquecedora para mim
 2024-07-29,Aline Costa, membro, equipe_de_desenvolvimento_07, satisfeito, neutro, satisfeito, satisfeito, satisfeito, satisfeito, 6, A colaboração entre os membros é boa mas poderia haver mais reuniões
-2024-07-17,Mariana Ramos, membro, equipe_de_desenvolvimento_08, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, 11, O projeto está muito interessante e estou aprendendo bastante
+2024-07-17,Mariana Ramos, membro, equipe_de_desenvolvimento_08, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, 11, O projeto está muito legal e estou aprendendo bastante
 2024-07-19,Ana Paula Martins, membro, equipe_de_desenvolvimento_07, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, 11, A interação entre os membros é excelente e me sinto motivada a contribuir
-2024-07-20,Felipe Andrade, membro, equipe_de_desenvolvimento_10, satisfeito, satisfeito, neutro, satisfeito, satisfeito, satisfeito, 5, É uma boa oportunidade mas a carga de trabalho está um pouco alta
+2024-07-20,Felipe Andrade, membro, equipe_de_desenvolvimento_07, satisfeito, satisfeito, neutro, satisfeito, satisfeito, satisfeito, 5, É uma boa oportunidade mas a carga de trabalho está um pouco alta
+2024-07-12,Bruno Nascimento, membro, equipe_de_desenvolvimento_02, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, 
+2024-07-13,Camila Freitas, membro, equipe_de_desenvolvimento_03, satisfeito, neutro, satisfeito, satisfeito, satisfeito, satisfeito, 7, 
+2024-07-14,Danilo Santos, membro, equipe_de_desenvolvimento_07, satisfeito, satisfeito, satisfeito, neutro, satisfeito, satisfeito, 8, 
+2024-07-15,Eliane Mendes, membro, equipe_de_desenvolvimento_05, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, satisfeito, 6, O projeto é desafiador mas estou gostando de cada etapa

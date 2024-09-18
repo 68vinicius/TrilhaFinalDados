@@ -179,7 +179,7 @@ Prepare-se para enfrentar desafios reais, aplicar suas habilidades de forma prá
 2. Crie um branch com seu nome e sobrenome a partir do branch principal.
 3. Organize os scripts e código em pastas separadas, mantendo a estrutura original dos arquivos fornecidos.
 4. Certifique-se de documentar sua solução para facilitar a compreensão do avaliador.
-5. Ao finalizar, submeta seu projeto preenchendo o [Formulário](https://forms.gle/ejVMYFrXKqWHkrKW6):
+5. Ao finalizar, submeta seu projeto preenchendo o [Formulário](https://forms.gle/Nmyjwna23VW9rM7m9):
 
 Se houver alguma observação adicional, por favor, inclua no campo adicional.
 
@@ -191,7 +191,7 @@ Para elevar seu projeto, busca maneiras inovadoras de não apenas analisar dados
 ---
 
 🔗 **Mantenha-se Conectado:**
-- [Discord](https://discord.com/invite/y3GHwPvsMK)
+- [Discord](discord.gg/y3GHwPvsMK)
 - [Website](http://www.codigocertocoders.com.br/)
 - [LinkedIn](https://www.linkedin.com/company/codigocertocoders/)
   

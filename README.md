@@ -1,6 +1,6 @@
 ![Código Certo Coders](https://i.imgur.com/MAyFXGV.jpg)
 
-# 📚 Trilha Final Ciência de Dados Jr
+# 📚 Trilha Final Ciência de Dados
 Parabéns pela conclusão da [Trilha Inicial](https://github.com/codigocerto/TrilhaDadosJR-JUN15)! Seu esforço e dedicação são admiráveis. O mundo está cheio de oportunidades esperando por você.
 
 O objetivo deste projeto é realizar uma análise detalhada dos dados coletados em nossa pesquisa de satisfação da comunidade nos meses de junho e julho de 2024. Utilizaremos ciência de dados para extrair insights significativos que possam orientar tanto estratégias imediatas quanto decisões a longo prazo.
@@ -186,7 +186,7 @@ Se houver alguma observação adicional, por favor, inclua no campo adicional.
 ---
 
 ### Motivação 🚀
-Para elevar seu projeto, busca maneiras inovadoras de não apenas analisar dados, mas também de transformar essas análises em recomendações estratégicas tangíveis. Isso poderia envolver a aplicação de técnicas de processamento de linguagem natural (NLP) para melhor compreender os sentimentos dos membros e a capacidade de comunicar resultados através de storytelling, avaliando assim sua capacidade de resolver problemas de análise de dados com habilidades em programação.
+Para elevar seu projeto, busca maneiras inovadoras de não apenas analisar dados, mas também de transformar essas análises em recomendações estratégicas tangíveis.
 
 ---
 

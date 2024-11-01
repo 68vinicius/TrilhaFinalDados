@@ -7,14 +7,6 @@ O objetivo deste projeto é realizar uma análise detalhada dos dados coletados 
 
 Conforme a nossa comunidade cresce em números com velocidade, torna-se crucial entendermos e atendermos às expectativas e necessidades dos nossos membros. Para isso, realizamos periodicamente pesquisas de satisfação, visando obter feedback valioso que nos guie na melhoria contínua dos nossos workshops, mentorias e experiência geral oferecida. Vale lembrar que os participantes desta trilha devem escolher apenas uma área de interesse específica. 
 
-Mais uma vez, parabéns pelo seu feito e pelo caminho que está construindo!
-
-### Desafios e Expectativas:
-- Criar visualizações e relatórios claros e informativos que comuniquem efetivamente os resultados da análise.
-- Gerar insights que vão além das análises superficiais, explorando padrões e relações complexas nos dados.
-- Garantir que as soluções desenvolvidas sejam eficientes e escaláveis, especialmente pensando em escalabilidade devido ao aumento do volume de dados.
-- Desenvolver e validar modelos e algoritmos para prever e melhorar aspectos específicos do projeto, como satisfação e engajamento.
-
 Na **Codigo Certo Coders** vamos aplicar ciência de dados em diversos projetos voltados para a nossa comunidade através de desafios reais que impactam diretamente nossos membros ou organizações sem fins lucrativos. Os projetos serão conduzidos com uma abordagem prática e orientada para resultados, buscando não apenas entender, mas também antecipar e resolver questões de forma proativa.
 
 ---
@@ -110,10 +102,9 @@ Na **Codigo Certo Coders** vamos aplicar ciência de dados em diversos projetos 
 
 ### Engenheiro(a) de Dados I - Nível Júnior
 #### Desafios e Expectativas:
-- Realizar tarefas básicas de ETL e manutenção de bancos de dados.
+- Realizar tarefas básicas de ETL.
 - Criar e otimizar consultas SQL simples.
 - Trabalhar com ferramentas e práticas de modelagem de dados básicas.
-- Implementar processos de ETL para integrar dados de diferentes fontes.
 - Demonstrar conhecimento básico em modelagem dimensional e estrutura de dados.
 - Manter e atualizar o banco de dados com eficiência.
 ### Engenheiro(a) de Dados II - Nível Intermediário
@@ -127,11 +118,9 @@ Na **Codigo Certo Coders** vamos aplicar ciência de dados em diversos projetos 
 ### Engenheiro(a) de Dados III - Nível Avançado
 #### Desafios e Expectativas:
 - Projetar e implementar arquiteturas de dados complexas e escaláveis.
-- Resolver problemas de performance em ambientes de dados na nuvem e híbridos.
 - Propor e implementar soluções de governança de dados e práticas avançadas de modelagem.
 - Desenvolver arquiteturas de dados eficientes e escaláveis que suportem grandes volumes de dados.
-- Resolver problemas de performance e otimizar processos em ambientes de dados complexos.
-- Propor e implementar estratégias avançadas de governança e integração de dados.
+- Propor e implementar estratégias avançadas de integração de dados.
   
 --- 
 
@@ -143,8 +132,8 @@ Na **Codigo Certo Coders** vamos aplicar ciência de dados em diversos projetos 
 ### Dicas: 💡
 - **Versionamento com Git.**
 - **Cumprimento dos Requisitos.**
-- **Atenção aos Detalhes Técnicos e Visuais.**
 - **Boas Práticas de Desenvolvimento.**
+- **Atenção aos Detalhes Técnicos e Visuais.**
 - Sinta-se à vontade para utilizar softwares, processos e ferramentas que considere adequados para as tarefas propostas.
 
 ### Detalhes Técnicos: 🔧
@@ -182,11 +171,6 @@ Prepare-se para enfrentar desafios reais, aplicar suas habilidades de forma prá
 5. Ao finalizar, submeta seu projeto preenchendo o [Formulário](https://forms.gle/snEb1yuz9n9fJpAs8):
 
 Se houver alguma observação adicional, por favor, inclua no campo adicional.
-
----
-
-### Motivação 🚀
-Para elevar seu projeto, busca maneiras inovadoras de não apenas analisar dados, mas também de transformar essas análises em recomendações estratégicas tangíveis.
 
 ---
 
